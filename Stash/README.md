@@ -108,7 +108,3 @@ The command `git stash pop` pulls the latest stash off the stack and reapply its
 ## Review
 
 Nice work! You've used the `git stash` command to set aside some untracked files so that you could checkout to a different branch. The most common use case for the `stash` command will likely be when you're working with a group and performing a `git pull`. Now you're ready to use this powerful command!
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

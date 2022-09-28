@@ -145,7 +145,3 @@ In this activity, you will use `git revert` to undo a commit made earlier while 
 * Ask an instructor or TA if you get stuck or have questions!
 
 * For more information, review the [Git documentation on revert](https://git-scm.com/docs/git-revert).
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

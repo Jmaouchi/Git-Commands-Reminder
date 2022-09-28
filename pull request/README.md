@@ -230,10 +230,3 @@ We are approaching the final step. It's time to merge the branch with the `main`
 	![A message on GitHub shows the option to delete the super_feature branch.](./Images/12-safe-to-delete.png)
 
 And that's it! This workflow might seem overwhelming, but it will eventually become second nature as you work with it more frequently.
-
-### Hints
-
-Ask an instructor or TA if you get stuck or have any questions! Check the [GitHub guide on collaboration flow](https://guides.github.com/introduction/flow/) for reference.
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

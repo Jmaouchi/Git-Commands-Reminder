@@ -122,6 +122,3 @@ git commit -m "creating a top level readme"
 * Avoid including your own name in the branch name, because multiple developers might end up working in the same branch. So, for example, instead of `git branch rachels-feature`, try using `git branch user-login-page`.
 
 * More information can be found in these [Atlassian tutorials on branching](https://www.atlassian.com/git/tutorials/using-branches).
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
